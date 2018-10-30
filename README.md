@@ -1,6 +1,6 @@
 # Bricky
 
-TODO: Write a gem description
+STILL TODO: Write a gem description
 
 ## Installation
 
